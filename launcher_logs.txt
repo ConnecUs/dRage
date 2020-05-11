@@ -1,0 +1,22 @@
+[0507/050932.733:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'add' of undefined", source: rui://main/js/app.aabc5a82.js (1)
+[0507/050933.110:WARNING:angle_platform_impl.cc(59)] compileToBinary(235): 
+C:\fakepath(73,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(95,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0507/050947.958:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'scrollHeight' of undefined", source: rui://main/js/app.aabc5a82.js (1)
+[0507/052902.836:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'add' of undefined", source: rui://main/js/app.aabc5a82.js (1)
+[0507/052917.928:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/052932.928:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/052947.928:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/053002.928:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/053017.928:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/053030.080:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'add' of undefined", source: rui://main/js/app.aabc5a82.js (1)
+[0507/053045.174:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/054239.573:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'add' of undefined", source: rui://main/js/app.aabc5a82.js (1)
+[0507/054254.667:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/054309.666:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/054324.666:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/054339.665:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/054354.666:INFO:CONSOLE(1)] "Refreshing servers", source: rui://main/js/app.aabc5a82.js (1)
+[0507/054406.499:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'scrollHeight' of undefined", source: rui://main/js/app.aabc5a82.js (1)
+[0507/054406.773:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'scrollHeight' of undefined", source: rui://main/js/app.aabc5a82.js (1)

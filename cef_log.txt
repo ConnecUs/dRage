@@ -1,0 +1,33 @@
+[1031/215610.674:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[1031/220317.132:INFO:CONSOLE(1)] "Uncaught ReferenceError: chatAPI is not defined", source:  (1)
+[1031/220332.119:INFO:CONSOLE(2)] "Uncaught Error: Syntax error, unrecognized expression: javascript://", source: mp://rui//js/jquery-2.2.4.min.js (2)
+[1031/220720.545:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[1031/221036.133:INFO:CONSOLE(2)] "Uncaught Error: Syntax error, unrecognized expression: javascript://", source: mp://rui//js/jquery-2.2.4.min.js (2)
+[1031/221608.978:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[1031/222941.904:INFO:CONSOLE(2)] "Uncaught Error: Syntax error, unrecognized expression: javascript://", source: mp://rui//js/jquery-2.2.4.min.js (2)
+[1218/185309.831:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0203/142935.811:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0203/144210.140:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0229/140357.810:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0229/141627.475:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0309/071351.729:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0309/073005.859:INFO:CONSOLE(1)] "Uncaught TypeError: showConfirm(...) is not a function", source:  (1)
+[0309/080528.686:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0310/133440.824:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0414/021235.764:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0414/033140.560:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0414/033716.451:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0414/034755.883:INFO:CONSOLE(2)] "Uncaught Error: Syntax error, unrecognized expression: javascript://", source: mp://rui//js/jquery-2.2.4.min.js (2)
+[0414/035827.171:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0414/040029.120:INFO:CONSOLE(2)] "Uncaught Error: Syntax error, unrecognized expression: javascript://", source: mp://rui//js/jquery-2.2.4.min.js (2)
+[0414/040513.777:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0414/044103.786:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0414/055801.087:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0414/060710.319:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0420/095803.990:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0420/101151.573:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0420/101558.143:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0420/113720.716:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0420/114235.273:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0507/051722.072:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0507/054528.978:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
